@@ -1,0 +1,8 @@
+server:
+  type: simple
+  applicationContextPath: /poorvi-hub-app
+  adminContextPath: /admin
+  registerDefaultExceptionMappers: false
+  connector:
+    type: http
+    port: 4050
