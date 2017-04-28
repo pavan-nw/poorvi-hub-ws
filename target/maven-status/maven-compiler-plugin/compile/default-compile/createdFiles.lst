@@ -1,0 +1,6 @@
+hub\poorvi\app\api\resource\MemberResource.class
+hub\poorvi\app\HubApplication.class
+hub\poorvi\app\api\model\AppResource.class
+hub\poorvi\app\api\response\AppResponse.class
+hub\poorvi\app\api\exception\GenericExceptionMapper.class
+hub\poorvi\app\api\model\Member.class
