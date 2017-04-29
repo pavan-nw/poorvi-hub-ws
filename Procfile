@@ -1,1 +1,1 @@
-web: java -jar target/PoorviHub-1.0-SNAPSHOT.jar server poorvi-config.yml
+web: java -jar target/poorvi-hub-0.7.0.jar server poorvi-config.yml
