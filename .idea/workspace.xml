@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14517f8f-6e78-4f5f-8ba8-9ee7396f0101" name="Default" comment="vcs">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\HubApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\api\exception\GenericExceptionMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\api\model\AppResource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\api\model\Member.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\api\resource\MemberResource.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\classes\hub\poorvi\app\api\response\AppResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\original-poorvi-hub-0.7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\poorvi-hub-0.7.0-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\My_Stuff\PoorviHub\target\poorvi-hub-0.7.0.jar" afterPath="" />
     </list>
     <ignored path="PoorviHub.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -534,7 +546,7 @@
       <workItem from="1493447324923" duration="58000" />
       <workItem from="1493447387698" duration="2633000" />
       <workItem from="1493450051201" duration="2001000" />
-      <workItem from="1493452316457" duration="3108000" />
+      <workItem from="1493452316457" duration="3739000" />
     </task>
     <task id="LOCAL-00001" summary="vcs">
       <created>1493458389949</created>
@@ -544,7 +556,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22877000" />
+    <option name="totallyTimeSpent" value="23508000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
