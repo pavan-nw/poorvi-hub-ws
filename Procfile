@@ -1,1 +1,1 @@
-web: java -jar target/poorvi-hub-0.7.0.jar server poorvi-config.yml
+web: java $JAVA_OPTS -Ddw.server.connector.port=4050 -jar target/poorvi-hub-0.7.0.jar server poorvi-config.yml
