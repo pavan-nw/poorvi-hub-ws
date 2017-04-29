@@ -25,6 +25,9 @@
         <module name="PoorviHub" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="PoorviHub" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
